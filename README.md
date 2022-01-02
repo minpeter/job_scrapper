@@ -6,4 +6,7 @@
 1. `go run main.go`
 2. connect to `localhost:1323`
 
-by [nomad coder](https://nomadcoders.co/go-for-beginners)
+
+
+-----
+by [nomad coder](https://nomadcoders.co/go-for-beginners) - go-for-beginners
